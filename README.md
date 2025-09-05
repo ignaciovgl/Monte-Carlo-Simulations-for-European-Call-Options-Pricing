@@ -1,5 +1,6 @@
 # Monte-Carlo Simulations for European Call Options Pricing
 This repository contains the Python code for a Monte Carlo simulation model designed to price European call options. The model simulates thousands of potential stock price paths to estimate the value of an options contract, providing a robust framework for financial analysis. This project was developed as part of a research paper on the application of Monte Carlo methods in options trading.
+
 ---
 ## 🎯 Project Goals
 - Implement a Monte Carlo simulation model to price European call options.
