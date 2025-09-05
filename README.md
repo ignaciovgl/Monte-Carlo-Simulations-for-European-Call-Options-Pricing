@@ -34,4 +34,5 @@ You can adjust the following parameters within the monte_carlo_options.py file t
 - M: Number of time steps (daily steps)
 
 The script will output the simulated European call option price and display a plot of the simulated price paths and a histogram of the final prices.
+
 ---
